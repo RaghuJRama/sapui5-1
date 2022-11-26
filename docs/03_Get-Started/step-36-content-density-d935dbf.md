@@ -72,7 +72,7 @@ We add a method `onInit` on the app controller that is called when the app view 
 
 
 
-## webapp/controller/HelloDialog.controller.js
+## webapp/controller/HelloPanel.controller.js
 
 ```js
 sap.ui.define([
